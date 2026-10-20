@@ -222,8 +222,8 @@ html, body {
 /* Heart Wrapper matching video keyframe style */
 .heart-wrapper {
   position: relative;
-  width: clamp(200px, 35vw, 290px);
-  height: clamp(180px, 32vw, 260px);
+  width: clamp(260px, 35vw, 290px);
+  height: clamp(200px, 32vw, 260px);
   margin: 10px 0 20px;
   display: flex;
   align-items: center;
@@ -271,8 +271,8 @@ html, body {
 }
 
 .heart-svg {
-  width: 100%;
-  height: 100%;
+  width: 85%;
+  height: 85%;
   filter: drop-shadow(0 0 25px rgba(255, 75, 114, 0.9));
 }
 
